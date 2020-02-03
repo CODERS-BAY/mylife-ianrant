@@ -62,7 +62,11 @@
 
 5. __Attempt at a table__
 
-| word 1 | word 2 | word 3 |
+| Hobbies | Wisdoms | Randomness |
 | --- | --- | --- | 
-| word 4 | word 5 | word 6 |
-| word 7 | word 8 | word 9 |
+| strength training | laugh every day | testicle |
+| health topics | moisturize | doggos |
+| acting | everything can be good | 42+1 |
+| singing | you care free not to have an opinion |  |
+| life hacking | sush the brain sometimes |  |
+| learning | stroke a cat |  |
