@@ -2,7 +2,7 @@
 ## silent adorer of Shibas, vain handsome devil
 ## smug connaisseur of hubris, malcontent philanthropist
 
-![Ben Leitl's handsome mugshot](mugshot.jpeg =600x400)
+![Ben Leitl's handsome mugshot](mugshot.jpeg)
 
 
 1. __Personal Data__ 
